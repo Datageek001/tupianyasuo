@@ -21,13 +21,13 @@
 
 ## 在线预览
 
-访问 [https://datageek001.github.io/PictureCompress/](https://datageek001.github.io/PictureCompress/) 体验在线压缩功能
+访问 [https://datageek001.github.io/tupianyasuo/](https://datageek001.github.io/tupianyasuo/) 体验在线压缩功能
 
 ## 本地运行
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/Datageek001/PictureCompress.git
+   git clone https://github.com/Datageek001/tupianyasuo.git
    ```
 
 2. 进入项目目录：
